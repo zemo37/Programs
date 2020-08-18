@@ -103,7 +103,6 @@ namespace Dz3_Kalkuliator
                         Console.WriteLine("Вы ввели неизвестное значение.");
                         break;
                 }
-                Console.ReadLine();
 
             }
 
