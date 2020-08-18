@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\Dz3 Kalkuliator\Dz3 Kalkuliator\bin\Debug\Dz3 Kalkuliator.exe.config
+C:\Users\Никита\source\repos\Dz3 Kalkuliator\Dz3 Kalkuliator\bin\Debug\Dz3 Kalkuliator.exe
+C:\Users\Никита\source\repos\Dz3 Kalkuliator\Dz3 Kalkuliator\bin\Debug\Dz3 Kalkuliator.pdb
+C:\Users\Никита\source\repos\Dz3 Kalkuliator\Dz3 Kalkuliator\obj\Debug\Dz3 Kalkuliator.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\Dz3 Kalkuliator\Dz3 Kalkuliator\obj\Debug\Dz3 Kalkuliator.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Dz3 Kalkuliator\Dz3 Kalkuliator\obj\Debug\Dz3 Kalkuliator.exe
+C:\Users\Никита\source\repos\Dz3 Kalkuliator\Dz3 Kalkuliator\obj\Debug\Dz3 Kalkuliator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\Dz1\Dz1\bin\Debug\Dz1.exe.config
+C:\Users\Никита\source\repos\Dz1\Dz1\bin\Debug\Dz1.exe
+C:\Users\Никита\source\repos\Dz1\Dz1\bin\Debug\Dz1.pdb
+C:\Users\Никита\source\repos\Dz1\Dz1\obj\Debug\Dz1.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\Dz1\Dz1\obj\Debug\Dz1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Dz1\Dz1\obj\Debug\Dz1.exe
+C:\Users\Никита\source\repos\Dz1\Dz1\obj\Debug\Dz1.pdb
